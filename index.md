@@ -1,4 +1,5 @@
 # H1 Header
 ###### H6 Header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Add H1 and H6 Header
+Add H1 and H6 Headers and a image.
